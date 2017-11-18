@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="welcome">Welcome to our App! </string>
+    <string name="welcome">Welcome to our App!</string>
+    <string name = "icon"> appicon</string>
+    <string name="askbudget">What is your budget?</string>
+    <string name="budgethint">Enter Budget</string>
+    <string name="fiveten">$5-$10</string>
+    <string name ="tenfifteen">$10-$15</string>
+    <string name="fifteenplus">$15-$25</string>
+    <string name="confirm">Confirm</string>
 </resources>

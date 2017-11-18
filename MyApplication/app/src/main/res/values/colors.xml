@@ -3,6 +3,7 @@
     <color name="darkblue">#004059</color>
     <color name="teal">#006576</color>
     <color name="seafoam">#008B8C</color>
-    <color name="yellow">#008B8C</color>
+    <color name="yellow">#F1EFC7</color>
     <color name="orange">#F19A75</color>
+    <color name="white">#FFFFFF</color>
 </resources>
