@@ -16,7 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HomeActivity"></activity>
+        <!-- screen orientation locks the screen portrait mode -->
+        <activity
+            android:name=".HomeActivity"
+            android:screenOrientation="portrait">
+        </activity>
     </application>
 
 </manifest>
